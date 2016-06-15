@@ -1,2 +1,0 @@
-# GitDemoTest
-Its for learning
